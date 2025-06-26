@@ -11,7 +11,7 @@ Contains the `router.js` file, which defines all CRUD route endpoints.
 
 ### 🔹 `controller/`
 Contains:
-- `routerMethod.js` — the logic for each CRUD route (GET, POST, PUT, DELETE) it contain a try and catch block for error handling. 
+- `routerMethod.js` — the logic for each CRUD route (GET, POST, PUT, DELETE) and a try and catch block for error handling. 
 - `db.js` — handles PostgreSQL database connection setup
 
 ### 🔹 `middleware/`
